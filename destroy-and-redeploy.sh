@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # Destroy all AWS resources managed by Terraform, then redeploy everything
 
 set -e
